@@ -1,0 +1,9 @@
+E:\My file\Project\C#\SerialPortMonitoring\serialPortMonitoring\serialPortMonitoring\bin\Debug\serialPortMonitoring.exe.config
+E:\My file\Project\C#\SerialPortMonitoring\serialPortMonitoring\serialPortMonitoring\bin\Debug\serialPortMonitoring.exe
+E:\My file\Project\C#\SerialPortMonitoring\serialPortMonitoring\serialPortMonitoring\bin\Debug\serialPortMonitoring.pdb
+E:\My file\Project\C#\SerialPortMonitoring\serialPortMonitoring\serialPortMonitoring\obj\Debug\serialPortMonitoring.csprojResolveAssemblyReference.cache
+E:\My file\Project\C#\SerialPortMonitoring\serialPortMonitoring\serialPortMonitoring\obj\Debug\serialPortMonitoring.Form1.resources
+E:\My file\Project\C#\SerialPortMonitoring\serialPortMonitoring\serialPortMonitoring\obj\Debug\serialPortMonitoring.Properties.Resources.resources
+E:\My file\Project\C#\SerialPortMonitoring\serialPortMonitoring\serialPortMonitoring\obj\Debug\serialPortMonitoring.csproj.GenerateResource.Cache
+E:\My file\Project\C#\SerialPortMonitoring\serialPortMonitoring\serialPortMonitoring\obj\Debug\serialPortMonitoring.exe
+E:\My file\Project\C#\SerialPortMonitoring\serialPortMonitoring\serialPortMonitoring\obj\Debug\serialPortMonitoring.pdb
